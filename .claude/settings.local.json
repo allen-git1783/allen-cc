@@ -5,7 +5,17 @@
       "Bash(git config *)",
       "Bash(git init *)",
       "Bash(git add *)",
-      "Bash(git commit *)"
+      "Bash(git commit *)",
+      "Bash(/c/Program Files/GitHub CLI/gh.exe repo *)",
+      "Bash(git checkout *)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(curl *)",
+      "Bash(npx skills *)",
+      "Bash(python3 *)",
+      "Bash(python *)",
+      "Bash(start *)",
+      "WebSearch"
     ]
   }
 }
